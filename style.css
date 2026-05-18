@@ -163,27 +163,6 @@ tr.game-link:hover td { background: #f3f4f6; }
   h1 { font-size: 20px; }
 }
 
-/* Newsletter signup — homepage hero (below today's slate) */
-.hero-signup {
-  margin: 40px auto 24px;
-  max-width: 480px;
-  text-align: center;
-  border-top: 1px solid var(--border);
-  padding-top: 32px;
-}
-.hero-signup h2 {
-  font-size: 20px;
-  margin: 0 0 6px;
-}
-.hero-signup p {
-  color: var(--muted);
-  font-size: 14px;
-  margin: 0 0 16px;
-}
-.hero-signup .ml-embedded {
-  margin-top: 8px;
-}
-
 /* Newsletter signup — global footer (compact) */
 footer .footer-signup {
   max-width: 360px;
