@@ -194,6 +194,20 @@ tr.game-link:hover td { background: #f3f4f6; }
   font-size: 12px;
   margin: 12px 0 0;
 }
+.hero-signup-thanks {
+  padding: 6px 0;
+}
+.hero-signup-thanks h2 {
+  font-size: 22px;
+  margin: 0 0 6px;
+  color: var(--good);
+  font-weight: 700;
+}
+.hero-signup-thanks p {
+  color: var(--muted);
+  font-size: 14px;
+  margin: 0;
+}
 .hero-signup-form {
   display: flex;
   gap: 8px;
