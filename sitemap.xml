@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://mlbsims.com/</loc><lastmod>2026-05-29</lastmod></url>
-  <url><loc>https://mlbsims.com/methodology</loc><lastmod>2026-05-29</lastmod></url>
-  <url><loc>https://mlbsims.com/ask</loc><lastmod>2026-05-29</lastmod></url>
-  <url><loc>https://mlbsims.com/results/</loc><lastmod>2026-05-29</lastmod></url>
+  <url><loc>https://mlbsims.com/</loc><lastmod>2026-05-30</lastmod></url>
+  <url><loc>https://mlbsims.com/methodology</loc><lastmod>2026-05-30</lastmod></url>
+  <url><loc>https://mlbsims.com/ask</loc><lastmod>2026-05-30</lastmod></url>
+  <url><loc>https://mlbsims.com/results/</loc><lastmod>2026-05-30</lastmod></url>
   <url><loc>https://mlbsims.com/games/2026-05-17/</loc><lastmod>2026-05-17</lastmod></url>
   <url><loc>https://mlbsims.com/games/2026-05-17/MIA-at-TB</loc><lastmod>2026-05-17</lastmod></url>
   <url><loc>https://mlbsims.com/games/2026-05-17/BAL-at-WSH</loc><lastmod>2026-05-17</lastmod></url>
@@ -191,6 +191,23 @@
   <url><loc>https://mlbsims.com/games/2026-05-29/NYY-at-OAK</loc><lastmod>2026-05-29</lastmod></url>
   <url><loc>https://mlbsims.com/games/2026-05-29/ARI-at-SEA</loc><lastmod>2026-05-29</lastmod></url>
   <url><loc>https://mlbsims.com/games/2026-05-29/PHI-at-LAD</loc><lastmod>2026-05-29</lastmod></url>
+  <url><loc>https://mlbsims.com/games/2026-05-30/</loc><lastmod>2026-05-30</lastmod></url>
+  <url><loc>https://mlbsims.com/games/2026-05-30/DET-at-CWS</loc><lastmod>2026-05-30</lastmod></url>
+  <url><loc>https://mlbsims.com/games/2026-05-30/KC-at-TEX</loc><lastmod>2026-05-30</lastmod></url>
+  <url><loc>https://mlbsims.com/games/2026-05-30/MIN-at-PIT</loc><lastmod>2026-05-30</lastmod></url>
+  <url><loc>https://mlbsims.com/games/2026-05-30/SD-at-WSH</loc><lastmod>2026-05-30</lastmod></url>
+  <url><loc>https://mlbsims.com/games/2026-05-30/TOR-at-BAL</loc><lastmod>2026-05-30</lastmod></url>
+  <url><loc>https://mlbsims.com/games/2026-05-30/BOS-at-CLE</loc><lastmod>2026-05-30</lastmod></url>
+  <url><loc>https://mlbsims.com/games/2026-05-30/LAA-at-TB</loc><lastmod>2026-05-30</lastmod></url>
+  <url><loc>https://mlbsims.com/games/2026-05-30/MIA-at-NYM</loc><lastmod>2026-05-30</lastmod></url>
+  <url><loc>https://mlbsims.com/games/2026-05-30/MIL-at-HOU</loc><lastmod>2026-05-30</lastmod></url>
+  <url><loc>https://mlbsims.com/games/2026-05-30/ATL-at-CIN</loc><lastmod>2026-05-30</lastmod></url>
+  <url><loc>https://mlbsims.com/games/2026-05-30/CHC-at-STL</loc><lastmod>2026-05-30</lastmod></url>
+  <url><loc>https://mlbsims.com/games/2026-05-30/SF-at-COL</loc><lastmod>2026-05-30</lastmod></url>
+  <url><loc>https://mlbsims.com/games/2026-05-30/NYY-at-OAK</loc><lastmod>2026-05-30</lastmod></url>
+  <url><loc>https://mlbsims.com/games/2026-05-30/ARI-at-SEA</loc><lastmod>2026-05-30</lastmod></url>
+  <url><loc>https://mlbsims.com/games/2026-05-30/PHI-at-LAD</loc><lastmod>2026-05-30</lastmod></url>
+  <url><loc>https://mlbsims.com/results/2026-05-29/</loc><lastmod>2026-05-29</lastmod></url>
   <url><loc>https://mlbsims.com/results/2026-05-28/</loc><lastmod>2026-05-28</lastmod></url>
   <url><loc>https://mlbsims.com/results/2026-05-27/</loc><lastmod>2026-05-27</lastmod></url>
   <url><loc>https://mlbsims.com/results/2026-05-26/</loc><lastmod>2026-05-26</lastmod></url>
@@ -220,5 +237,4 @@
   <url><loc>https://mlbsims.com/results/2026-05-02/</loc><lastmod>2026-05-02</lastmod></url>
   <url><loc>https://mlbsims.com/results/2026-05-01/</loc><lastmod>2026-05-01</lastmod></url>
   <url><loc>https://mlbsims.com/results/2026-04-30/</loc><lastmod>2026-04-30</lastmod></url>
-  <url><loc>https://mlbsims.com/results/2026-04-29/</loc><lastmod>2026-04-29</lastmod></url>
 </urlset>
